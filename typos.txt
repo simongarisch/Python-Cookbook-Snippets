@@ -1,0 +1,1 @@
+pg284 in SortedItems class, __init__method should say 'is not None'
