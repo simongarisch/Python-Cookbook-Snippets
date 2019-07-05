@@ -1,1 +1,5 @@
 pg284 in SortedItems class, __init__method should say 'is not None'
+
+pg350
+make sure that your decorators are applied before @classmethod or @staticmethod
+should be 'after' not 'before'
