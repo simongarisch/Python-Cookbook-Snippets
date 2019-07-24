@@ -1,0 +1,10 @@
+test_bad_int (__main__.TestConversion) ... ok
+test_func (__main__.TestFunc) ... ok
+test_func_patchy (__main__.TestFuncPatchy) ... ok
+test_file_not_found (__main__.TestIO) ... ok
+test_url_gets_to_stdout (__main__.TestURLPrint) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
